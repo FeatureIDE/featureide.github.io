@@ -487,9 +487,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html">Elias Kuiter</a> (University of Magdeburg, Germany)</li>
 <li>Rahel Arens (University of Ulm, Germany)</li>
-<li>Kevin Jedelhauser (University of Ulm, Germany)</li>
-<li>Johannes Herschel (University of Ulm, Germany)</li>
-<li>Benedikt Jutz (University of Ulm, Germany)</li>
+<li>Stefan Vill (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schaefer">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
@@ -505,6 +503,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="http://cs.unibg.it/gargantini/">Angelo Gargantini</a> (University of Bergamo, Italy)</li>
 <li>Anna-Liisa Ahola (TU Braunschweig, Germany)</li>
 <li>Antje Mönch (TU Braunschweig, Germany)</li>
+<li>Benedikt Jutz (University of Ulm, Germany)</li>
 <li>Christian Becker (University of Magdeburg, Germany)</li>
 <li><a href="https://www.cs.cmu.edu/~ckaestne/">Christian K&auml;stner</a> (Carnegie Mellon University, USA)</li>
 <li>Christian Lausberger (University of Magdeburg, Germany)</li>
@@ -545,10 +544,12 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Ehemalige+Mitarbeiter/Jens+Meinicke.html">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
+<li>Johannes Herschel (University of Ulm, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Kai Wolf (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/kamil-rosiak-msc">Kamil Rosiak</a> (TU Braunschweig, Germany)</li>
+<li>Kevin Jedelhauser (University of Ulm, Germany)</li>
 <li>Konstantin Tonscheidt (University of Magdeburg, Germany)</li>
 <li>Laura Marnitz (University of Magdeburg, Germany)</li>
 <li>Lennart Kontny (TU Braunschweig, Germany)</li>
