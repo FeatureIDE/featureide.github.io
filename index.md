@@ -4,7 +4,7 @@
 
 <p>You like FeatureIDE or you are interested in updates? Star or watch us on <a href="https://github.com/FeatureIDE/FeatureIDE">GitHub</a>. Follow us on <a href="https://twitter.com/FeatureIDE">Twitter</a>. Subscribe to our <a href="https://www.youtube.com/channel/UC0xYesZDzhFUbq6GUKtr3uA">YouTube</a> channel. Follow new publications at <a href="https://scholar.google.de/citations?user=I7Kw3l8AAAAJ">Google Scholar</a>. Mark us as favorite in the <a href="http://marketplace.eclipse.org/content/featureide">Eclipse Marketplace</a>.</p>
 
-Quick links to <a href="http://featureide.cs.ovgu.de/update/v3/">Update Site</a>, <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/">Nightly Update Site</a>, <a href="https://github.com/tthuem/FeatureIDE">GitHub</a>, <a href="http://featureide.cs.ovgu.de/update/v3/changelog.txt">Change log</a>
+Quick links to <a href="http://featureide.uni-ulm.de/update/v3/">Update Site</a>, <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/">Nightly Update Site</a>, <a href="https://github.com/tthuem/FeatureIDE">GitHub</a>, <a href="http://featureide.uni-ulm.de/update/v3/changelog.txt">Change log</a>
 
 Jump below to <!--<a href="#screenshots">Screenshots</a>,--> <a href="#publications">Publications</a>, <a href="#documentation">Documentation</a>, <a href="#download">Download</a>, <a href="#faq">FAQ</a>, <a href="#contact">Contact</a>, <a href="#statistics">Statistics</a>, <a href="#relateddownloads">Related Downloads</a>
 
@@ -175,8 +175,8 @@ including videos explaining the usage.</p>
 
 <p>As there are many dependencies and installation is not always straightforward, we prepared special versions of Eclipse with all necessary plug-ins installed. In most cases, we took an existing Eclipse with JDT and then installed CDT, AJDT, and FeatureIDE. For a 32Bit version, Java 32Bit is required (even possible on a 64Bit machine). For a 64Bit version, Java 64Bit is required (only possible on a 64Bit machine).</p>
 
-> ℹ️ Since Eclipse 2020-09 (4.17), Eclipse requires at least Java 11 to launch. This affects the prepackages of FeatureIDE starting with v3.6.4. However, FeatureIDE requires only Java 8 for now and can therefore be installed into older Eclipse versions (we recommend Eclipse 4.16) via the [Eclipse Marketplace](http://marketplace.eclipse.org/content/featureide) or the [Update Site](http://featureide.cs.ovgu.de/update/v3/). Consult the [Wiki](https://github.com/FeatureIDE/FeatureIDE/wiki#installation-and-update) for more information on these installation methods.
-> ℹ️ Since v3.9.0, for technical reasons, we do not provide prepacked versions for MacOS. To use FeatureIDE for MacOS please install it via the [Eclipse Marketplace](http://marketplace.eclipse.org/content/featureide) or via our [Update Site](http://featureide.cs.ovgu.de/update/v3/).
+> ℹ️ Since Eclipse 2020-09 (4.17), Eclipse requires at least Java 11 to launch. This affects the prepackages of FeatureIDE starting with v3.6.4. However, FeatureIDE requires only Java 8 for now and can therefore be installed into older Eclipse versions (we recommend Eclipse 4.16) via the [Eclipse Marketplace](http://marketplace.eclipse.org/content/featureide) or the [Update Site](http://featureide.uni-ulm.de/update/v3/). Consult the [Wiki](https://github.com/FeatureIDE/FeatureIDE/wiki#installation-and-update) for more information on these installation methods.
+> ℹ️ Since v3.9.0, for technical reasons, we do not provide prepacked versions for MacOS. To use FeatureIDE for MacOS please install it via the [Eclipse Marketplace](http://marketplace.eclipse.org/content/featureide) or via our [Update Site](http://featureide.uni-ulm.de/update/v3/).
 
 | FeatureIDE | Eclipse | Eclipse with FeatureIDE, JDT, CDT, and AJDT | Eclipse with Feature Modeling | FeatureIDE Library |
 | --- | --- | --- | --- | --- |
@@ -226,7 +226,7 @@ including videos explaining the usage.</p>
 
 1. Open Eclipse and go to <i>Help &gt; Install New Software...</i> (Eclipse 3.5 and older: <i>Help &gt; Software Updates... &gt; Available Software &gt; Add Site...</i>)
 1. Add one of update sites below:
-  * FeatureIDE v3.x: <a href="http://featureide.cs.ovgu.de/update/v3/">http://featureide.cs.ovgu.de/update/v3/</a>
+  * FeatureIDE v3.x: <a href="http://featureide.uni-ulm.de/update/v3/">http://featureide.uni-ulm.de/update/v3/</a>
   * FeatureIDE v2.6 and v2.7: <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/">http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/</a>
   * FeatureIDE v2.5 and earlier versions: <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/2.5/">http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/2.5/</a>
   * Nightly builds: <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/">http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/</a> (<em>Hint:</em> disable <i>Group items by category</i> at the update wizard.)
