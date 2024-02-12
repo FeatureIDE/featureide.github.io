@@ -489,12 +489,12 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="https://www.uni-ulm.de/in/sp/team/sebastian-krieter/">Sebastian Krieter</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/chico-sundermann/">Chico Sundermann</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/rahel-sundermann/">Rahel Sundermann</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html">Elias Kuiter</a> (University of Magdeburg, Germany)</li>
-<li>Rahel Arens (University of Ulm, Germany)</li>
 <li>Stefan Vill (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
-<li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
-<li><a href="https://www.tu-braunschweig.de/isf/team/schaefer">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Gunter+Saake.html">Gunter Saake</a> (University of Magdeburg, Germany)</li>
+<li><a href="https://tva.kastel.kit.edu/team_schaefer.php">Ina Schaefer</a> (Karlsruhe Institute of Technology, Germany)</li>
 </ul>
 
 <p>Further contributors and former project members:</p>
