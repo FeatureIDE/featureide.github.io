@@ -491,7 +491,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="https://www.uni-ulm.de/in/sp/team/rahel-sundermann/">Rahel Sundermann</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html">Elias Kuiter</a> (University of Magdeburg, Germany)</li>
-<li>Stefan Vill (University of Ulm, Germany)</li>
+<li>Andreas Gerasimow (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Gunter+Saake.html">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://tva.kastel.kit.edu/team_schaefer.php">Ina Schaefer</a> (Karlsruhe Institute of Technology, Germany)</li>
@@ -545,7 +545,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Iris-Maria Banciu (University of Magdeburg, Germany)</li>
 <li>Jan Wedding (University of Magdeburg, Germany)</li>
 <li>Jan Werner (TU Braunschweig, Germany)</li>
-<li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
+<li>Janet Siegmund (TU Chemnitz, Germany)</li>
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
 <li>Jens Meinicke (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
 <li>Johannes Herschel (University of Ulm, Germany)</li>
@@ -592,6 +592,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Simon Wenk (University of Magdeburg, Germany)</li>
 <li>Sören Viegener (University of Ulm, Germany)</li>
 <li>Stefan Kr&uuml;ger (University of Paderborn, Germany)</li>
+<li>Stefan Vill (University of Ulm, Germany)</li>
 <li>Stefanie Bolle (TU Braunschweig, Germany)</li>
 <li>Stefanie Schober (TU Braunschweig, Germany)</li>
 <li>Steffen Schulze (University of Magdeburg, Germany)</li>
