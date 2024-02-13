@@ -488,8 +488,8 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="https://www.uni-ulm.de/in/sp/team/thuem/">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/sebastian-krieter/">Sebastian Krieter</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/chico-sundermann/">Chico Sundermann</a> (University of Ulm, Germany)</li>
-<li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/rahel-sundermann/">Rahel Sundermann</a> (University of Ulm, Germany)</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html">Elias Kuiter</a> (University of Magdeburg, Germany)</li>
 <li>Stefan Vill (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
@@ -502,7 +502,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <ul>
 <li>Ajeeth Kularajan (TU Braunschweig, Germany)</li>
 <li>Alexander Dreiling (University of Magdeburg, Germany)</li>
-<li><a href="https://www.tu-braunschweig.de/isf/team/knueppel">Alexander Kn&uuml;ppel</a> (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/knueppel">Alexander Kittelmann</a> (TU Braunschweig, Germany)</li>
 <li>Alexander Schmidt (University of Magdeburg, Germany)</li>
 <li><a href="http://cs.unibg.it/gargantini/">Angelo Gargantini</a> (University of Bergamo, Italy)</li>
 <li>Anna-Liisa Ahola (TU Braunschweig, Germany)</li>
@@ -531,7 +531,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Enis Belli (TU Braunschweig, Germany)</li>
 <li>Eric Schubert (University of Magdeburg, Germany)</li>
 <li>Erik D&auml;nike (University of Magdeburg, Germany)</li>
-<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Ehemalige+Mitarbeiter/Fabian+Benduhn.html">Fabian Benduhn</a> (University of Magdeburg, Germany)</li>
+<li>Fabian Benduhn (University of Magdeburg, Germany)</li>
 <li>Fabian Wielgorz (University of Passau, Germany)</li>
 <li>Felix Rieger (University of Marburg, Germany)</li>
 <li>Fl&aacute;vio Medeiros (Federal University of Alagoas, Brazil)</li>
@@ -547,7 +547,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Jan Werner (TU Braunschweig, Germany)</li>
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
-<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Ehemalige+Mitarbeiter/Jens+Meinicke.html">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
+<li>Jens Meinicke (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
 <li>Johannes Herschel (University of Ulm, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
@@ -565,7 +565,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)</li>
 <li>Marcus Kamieth (University of Magdeburg, Germany)</li>
 <li>Marcus Leich (University of Magdeburg, Germany)</li>
-<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Externe+Doktoranden/Marcus+Pinnecke.html">Marcus Pinnecke</a> (University of Magdeburg, Germany)</li>
+<li>Marcus Pinnecke (University of Magdeburg, Germany)</li>
 <li>Marlen Bernier (TU Braunschweig, Germany)</li>
 <li>Martha Nyerembe (University of Magdeburg, Germany)</li>
 <li>Matthias Quaas (University of Magdeburg, Germany)</li>
@@ -583,7 +583,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
 <li>Philipp Kuhn (TU Braunschweig, Germany)</li>
 <li>Philipp Vulpius (University of Ulm, Germany)</li>
-<li><a href="https://www.dbse.ovgu.de/en/Staff/Former+Members.html">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)</li>
+<li>Reimar Schr&ouml;ter (University of Magdeburg, Germany)</li>
 <li>Sabrina Hugo (TU Braunschweig, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/Sandro+Schulze.html">Sandro Schulze</a> (University of Potsdam, Germany)</li>
 <li>Sofia Ananieva (TU Braunschweig, Germany)</li>
@@ -611,7 +611,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 
 <h2><a name="statistics"></a>Statistics</h2>
 
-<p>Since 2007 FeatureIDE is being used by lecturers at numerous universities:</p>
+<p>Since 2007, FeatureIDE is being used by lecturers at numerous universities:</p>
 
 <ul>
 <li><a href="http://www.dbse.ovgu.de/dbse/en/Lectures.html">University of Magdeburg, Germany</a> (Christian K&auml;stner, Gunter Saake, Martin Kuhlemann, Norbert Siegmund, Thomas Th&uuml;m, Thomas Leich)</li>
