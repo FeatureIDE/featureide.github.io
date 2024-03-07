@@ -485,7 +485,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <p>FeatureIDE development team:</p>
 
 <ul>
-<li><a href="https://www.uni-ulm.de/in/sp/team/thuem/">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
+<li><a href="https://www.uni-paderborn.de/person/102807">Thomas Th&uuml;m</a> (Paderborn University, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/sebastian-krieter/">Sebastian Krieter</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/chico-sundermann/">Chico Sundermann</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/rahel-sundermann/">Rahel Sundermann</a> (University of Ulm, Germany)</li>
