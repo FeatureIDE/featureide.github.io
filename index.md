@@ -486,11 +486,10 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <p>FeatureIDE development team:</p>
 
 <ul>
-<li><a href="https://www.uni-paderborn.de/person/102807">Thomas Th&uuml;m</a> (Paderborn University, Germany)</li>
-<li><a href="https://www.uni-paderborn.de/person/105190">Sebastian Krieter</a> (Paderborn University, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/krieter">Sebastian Krieter</a> (TU Braunschweig, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/chico-sundermann/">Chico Sundermann</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/rahel-sundermann/">Rahel Sundermann</a> (University of Ulm, Germany)</li>
-<li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html">Elias Kuiter</a> (University of Magdeburg, Germany)</li>
 <li>Andreas Gerasimow (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
@@ -605,6 +604,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Thomas Graave (TU Braunschweig, Germany)</li>
 <li>Tim Lautenschl&auml;ger (University of Magdeburg, Germany)</li>
 <li>Timo G&uuml;nther (TU Braunschweig, Germany)</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/pett">Tobias Pett</a> (TU Braunschweig, Germany)</li>
 <li>Tom Brosch (University of Magdeburg, Germany)</li>
 <li>Torsten St&ouml;ter (University of Magdeburg, Germany)</li>
