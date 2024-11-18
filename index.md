@@ -4,7 +4,7 @@
 
 <p>You like FeatureIDE or you are interested in updates? Star or watch us on <a href="https://github.com/FeatureIDE/FeatureIDE">GitHub</a>. Follow us on <a href="https://twitter.com/FeatureIDE">Twitter</a>. Subscribe to our <a href="https://www.youtube.com/channel/UC0xYesZDzhFUbq6GUKtr3uA">YouTube</a> channel. Follow new publications at <a href="https://scholar.google.de/citations?user=I7Kw3l8AAAAJ">Google Scholar</a>. Mark us as favorite in the <a href="http://marketplace.eclipse.org/content/featureide">Eclipse Marketplace</a>.</p>
 
-Quick links to <a href="http://featureide.uni-ulm.de/update/v3/">Update Site</a>, <a href="https://github.com/tthuem/FeatureIDE">GitHub</a>, <a href="http://featureide.uni-ulm.de/update/v3/changelog.txt">Change log</a>
+Quick links to <a href="http://featureide.uni-ulm.de/update/v3/">Update Site</a>, <a href="https://github.com/FeatureIDE/FeatureIDE">GitHub</a>, <a href="https://github.com/FeatureIDE/FeatureIDE/issues">Issues</a>, <a href="http://featureide.uni-ulm.de/update/v3/changelog.txt">Change log</a>
 
 Jump below to <!--<a href="#screenshots">Screenshots</a>,--> <a href="#publications">Publications</a>, <a href="#documentation">Documentation</a>, <a href="#download">Download</a>, <a href="#faq">FAQ</a>, <a href="#contact">Contact</a>, <a href="#statistics">Statistics</a>, <a href="#relateddownloads">Related Downloads</a>
 
