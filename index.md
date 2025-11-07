@@ -78,6 +78,7 @@ A major problem of product-line engineering is still the missing tool support. T
 * <a href="https://github.com/ckaestne/LEADT">LEADT</a>: Supports developers in locating features in Java code in order to turn them into a software product line
 * <a href="https://www.tu-braunschweig.de/isf/research/vampire/index.html">VAmPiRE</a>: Variant-Preserving Refactoring for Feature-Oriented Software Product Lines
 * <a href="https://github.com/tthuem/VariantSync">VariantSync</a>: Synchronization support for clone-and-own based on domain knowledge specified with FeatureIDE
+* <a href="https://github.com/acapulco-spl/">Acapulco</a>: Deriving optimal configuration based on non-functional feature attributes
 * Is your tool missing? Please <a href="mailto:featureide@uni-ulm.de">let us know</a>.
 
 <!--<img src="http://chart.googleapis.com/chart?chd=t%3A18.072289156627%2C19.277108433735%2C39.759036144578%2C33.734939759036%2C34.939759036145%2C25.301204819277%2C27.710843373494%2C33.734939759036%2C39.759036144578%2C100%2C68.674698795181%2C2.4096385542169&cht=bvg&chs=420x240&chtt=Marketplace%20Client%20Install&chts=000000%2C22&chl=1/12%7C2/12%7C3/12%7C4/12%7C5/12%7C6/12%7C7/12%7C8/12%7C9/12%7C10/12%7C11/12%7C12/12&chco=ff6c0a&chf=&chxr=0%2C0%2C83&chxl=1%3A%7C%20%7CInstalls%7C%20&chxt=r%2Cr&chxp=&chxs=1%2C000000%2C12&chbh=20%2C10"/></a>
